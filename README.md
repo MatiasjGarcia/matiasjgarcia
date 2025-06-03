@@ -1,5 +1,5 @@
 ### Hola 👋, Bienvenidos.
-#### Mi nombre es Matias Garcia {24 años}
+#### Mi nombre es Matias Garcia {26 años}
 Soy estudiante en la Carrera de Desarrollo Frontend React, de Coderhouse.
 
 Habilidades: VUE JS / REACT / JS / HTML / CSS
